@@ -1,1 +1,1 @@
-# shrz
+# just a personal web
